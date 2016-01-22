@@ -37,7 +37,6 @@ html {
   border-radius: 50%;
   position: relative;
   border: solid grey 5px;
-  font-size: 1em;
 }
 
 .tabs a:hover {
